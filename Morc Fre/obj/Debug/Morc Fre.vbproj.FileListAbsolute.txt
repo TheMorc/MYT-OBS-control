@@ -1,0 +1,11 @@
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\bin\Debug\Morc Fre.exe.config
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\bin\Debug\Morc Fre.exe
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\bin\Debug\Morc Fre.pdb
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\bin\Debug\Morc Fre.xml
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\Morc Fre.vbproj.GenerateResource.Cache
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\Morc Fre.exe
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\Morc Fre.xml
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\Morc Fre.pdb
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\Morc Fre\Morc Fre\obj\Debug\Morc Fre.vbprojResolveAssemblyReference.cache
